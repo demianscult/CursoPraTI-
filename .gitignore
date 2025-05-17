@@ -1,0 +1,10 @@
+# Arquivos de compilação
+*.class
+
+# Pastas comuns de IDEs
+.idea/
+*.iml
+.vscode/
+
+# Outros
+out/
