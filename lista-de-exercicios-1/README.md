@@ -1,10 +1,10 @@
-# Exercícios Básicos em Java
+# 🧩 Exercícios Básicos em Java
 
 Este repositório contém 15 exercícios básicos em Java que abordam conceitos fundamentais da linguagem, como estruturas condicionais, loops e manipulação de dados. Cada exercício é um programa independente que pode ser compilado e executado separadamente.
 
 ---
 
-## Conteúdo dos Exercícios
+## 📂 Conteúdo dos Exercícios
 
 1. Verificar se um número é par ou ímpar.
 2. Classificar idade em categorias.
@@ -24,69 +24,49 @@ Este repositório contém 15 exercícios básicos em Java que abordam conceitos 
 
 ---
 
-## Requisitos
+## ✅ Requisitos
 
-- Java Development Kit (JDK) 8 ou superior instalado.
-- Editor de texto ou IDE (Eclipse, IntelliJ IDEA, VS Code, etc.).
-- Terminal ou prompt de comando para compilação e execução.
+- [Java Development Kit (JDK) 8 ou superior](https://www.oracle.com/java/technologies/javase-downloads.html)
+- Editor de texto ou IDE (VS Code, Eclipse, IntelliJ IDEA, etc.)
+- Terminal ou prompt de comando para compilar e executar os arquivos `.java`
 
 ---
 
-🔧 Como configurar e executar os exercícios localmente
-1. Instalar o JDK
-Baixe o JDK no site oficial:
-👉 https://www.oracle.com/java/technologies/javase-downloads.html
+## 🚀 Como configurar e executar os exercícios localmente
 
-Siga as instruções do instalador para o seu sistema operacional.
+### 1. Instalar o JDK
 
-Verifique a instalação no terminal/cmd:
+1. Acesse: https://www.oracle.com/java/technologies/javase-downloads.html  
+2. Baixe a versão mais recente do JDK compatível com seu sistema operacional.
+3. Instale normalmente e adicione o Java ao `PATH` (a maioria dos instaladores faz isso automaticamente).
+4. Verifique a instalação com os comandos no terminal:
 
-bash
-Copiar
-Editar
+```bash
 java -version
 javac -version
-2. Instalar o Visual Studio Code (opcional, mas recomendado)
-Acesse: 👉 https://code.visualstudio.com/
+```
 
-Instale as extensões:
+### 2. Clonar este repositório
 
-Extension Pack for Java (da Microsoft)
+Abra o terminal e digite:
 
-Debugger for Java
-
-Java Test Runner (opcional, se for usar testes)
-
-Code Runner (opcional, para rodar mais rápido)
-
-3. Clonar o repositório
-
+```bash
 git clone https://github.com/demianscult/CursoPraTI-.git
+cd CursoPraTI-/lista-de-exercicios-1
+```
+### 3. Compilar e executar um exercício
 
-4. Compilar e executar os arquivos Java
-   
-Acesse a pasta da lista de exercícios desejada:
+No terminal, dentro da pasta lista-de-exercicios-1, use:
 
+```bash
+javac _01_ParOuImpar.java
+java _01_ParOuImpar
+```
+📌 Dica: use o nome do arquivo correspondente ao exercício que deseja testar.
 
-cd lista-de-exercicios-2
-Compile o arquivo:
+## 💬 Observações
+Os exercícios foram desenvolvidos com o intuito de reforçar a lógica e os conceitos básicos de programação.
 
+Todos os arquivos seguem a nomenclatura _XX_NomeDoExercicio.java para facilitar a organização e leitura.
 
-javac NomeDoArquivo.java
-
-Execute:
-
-java NomeDoArquivo
-
-Exemplo:
-
-javac _05_JoKenPo.java
-java _05_JoKenPo
-
-5. Dicas se estiver usando o VS Code
-   
-Abra a pasta do repositório com File > Open Folder
-
-Use o atalho Ctrl + Alt + N para executar com o Code Runner (se estiver instalado)
-
-Use o terminal interno (Ctrl + ' ou Ctrl + J) para compilar/rodar manualmente.
+Desenvolvido por Evellyn Pereira Silva 🧠 no programa PraTI+
