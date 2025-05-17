@@ -1,6 +1,6 @@
-# Exercícios do curso Desenvolvimento Full Stack - PraTI+
+# Exercícios do curso Desenvolvimento Full Stack - +PraTI/Codifica
 
-Este repositório contém exercícios desenvolvidos ao longo do programa de Desenvolvimento Full Stack da PraTI+.  
+Este repositório contém exercícios desenvolvidos ao longo do programa de Desenvolvimento Full Stack da +PraTI/Codifica.
 O objetivo é praticar conceitos fundamentais de lógica de programação, estruturas de controle, laços de repetição, funções e outros tópicos importantes, além de criar projetos com este aprendizado.
 
 ## 📁 Organização
