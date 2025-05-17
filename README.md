@@ -1,7 +1,7 @@
 # Exercícios do curso Desenvolvimento Full Stack - PraTI+
 
-Este repositório contém exercícios desenvolvidos ao longo do programa de Desenvolvimento Full Stack.  
-O objetivo é praticar conceitos fundamentais de lógica de programação, estruturas de controle, laços de repetição, funções e outros tópicos importantes.
+Este repositório contém exercícios desenvolvidos ao longo do programa de Desenvolvimento Full Stack da PraTI+.  
+O objetivo é praticar conceitos fundamentais de lógica de programação, estruturas de controle, laços de repetição, funções e outros tópicos importantes, além de criar projetos com este aprendizado.
 
 ## 📁 Organização
 
