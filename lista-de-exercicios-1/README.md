@@ -32,13 +32,61 @@ Este repositório contém 15 exercícios básicos em Java que abordam conceitos 
 
 ---
 
-## Como configurar e executar os exercícios localmente
+🔧 Como configurar e executar os exercícios localmente
+1. Instalar o JDK
+Baixe o JDK no site oficial:
+👉 https://www.oracle.com/java/technologies/javase-downloads.html
 
-### 1. Instalar o JDK
+Siga as instruções do instalador para o seu sistema operacional.
 
-- Baixe o JDK no site oficial: https://www.oracle.com/java/technologies/javase-downloads.html
-- Siga as instruções do instalador para o seu sistema operacional.
-- Após a instalação, confirme no terminal/cmd:
-  ```bash
-  java -version
-  javac -version
+Verifique a instalação no terminal/cmd:
+
+bash
+Copiar
+Editar
+java -version
+javac -version
+2. Instalar o Visual Studio Code (opcional, mas recomendado)
+Acesse: 👉 https://code.visualstudio.com/
+
+Instale as extensões:
+
+Extension Pack for Java (da Microsoft)
+
+Debugger for Java
+
+Java Test Runner (opcional, se for usar testes)
+
+Code Runner (opcional, para rodar mais rápido)
+
+3. Clonar o repositório
+
+git clone https://github.com/demianscult/CursoPraTI-.git
+
+4. Compilar e executar os arquivos Java
+   
+Acesse a pasta da lista de exercícios desejada:
+
+
+cd lista-de-exercicios-2
+Compile o arquivo:
+
+
+javac NomeDoArquivo.java
+
+Execute:
+
+java NomeDoArquivo
+
+Exemplo:
+
+javac _05_JoKenPo.java
+java _05_JoKenPo
+
+5. Dicas se estiver usando o VS Code
+   
+Abra a pasta do repositório com File > Open Folder
+
+Use o atalho Ctrl + Alt + N para executar com o Code Runner (se estiver instalado)
+
+Use o terminal interno (Ctrl + ' ou Ctrl + J) para compilar/rodar manualmente.
