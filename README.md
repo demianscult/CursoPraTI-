@@ -9,6 +9,7 @@ Os exercícios estão organizados em pastas numeradas conforme o progresso dos e
 Atualmente, o repositório conta com:
 
 - `lista-de-exercicios-1/`: exercícios básicos envolvendo estruturas condicionais, loops, entrada de dados, entre outros.
+- `lista-de-exercicios-2/`: controle de fluxo com condicionais e laços.
 
 ## 🚀 Como executar localmente
 
